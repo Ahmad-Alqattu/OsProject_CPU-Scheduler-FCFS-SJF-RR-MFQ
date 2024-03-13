@@ -1,0 +1,23 @@
+/* styles.css */
+
+#root {
+    -fx-background-color: #E0E0E0;
+}
+
+.button {
+    -fx-background-color: #4CAF50;
+    -fx-font-size: 18px;
+    -fx-text-fill: white;
+}
+
+.table-column {
+    -fx-font-size: 55px;
+    -fx-background-color: #289a2c;
+    -fx-text-fill: white;
+}
+
+.table-cell {
+    -fx-font-size: 22px;
+    -fx-background-color: #00bcd4;
+    -fx-text-fill: white;
+}

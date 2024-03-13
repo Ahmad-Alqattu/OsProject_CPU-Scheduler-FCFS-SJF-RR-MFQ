@@ -1,0 +1,5 @@
+Main_Scheduler class just print on terminal
+Ui_Simulator class is java fx to show result on table and ability to edit and customize variables
+
+so there is 2 options use Ui_Simulator is better.
+
